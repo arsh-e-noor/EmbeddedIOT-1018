@@ -1,3 +1,6 @@
+// 23-NTU-CS-1018
+// Arsh-e-noor
+
 #include <Wire.h>
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>

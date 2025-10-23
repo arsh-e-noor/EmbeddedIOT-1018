@@ -1,6 +1,6 @@
+// 23-NTU-CS-1018
+// Arsh-e-noor
 
-// 1030
-// Blinking LED using timer
 
 #include <Arduino.h>
 
